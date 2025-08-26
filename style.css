@@ -238,6 +238,10 @@ width: 100%;
     font-size: 1.3em;
     font-weight: 600;
     text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f0f0f0;
+    letter-spacing: 2px;
+    
 
 }
 .footer-title span {
